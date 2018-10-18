@@ -18,5 +18,5 @@ a lm object
 This function performs linear regression (a simplified version)
 }
 \examples{
-linear_reg(Sepal.length~., iris)
+linear_reg(Sepal.Length~., iris)
 }
